@@ -1,4 +1,2 @@
-https://antoinegriffard.com/  
-https://twitter.com/agriffard/  
-https://github.com/agriffard/  
-https://www.linkedin.com/in/agriffard/  
+[Twitter](https://twitter.com/agriffard/)
+[LinkedIn](https://www.linkedin.com/in/agriffard/)
