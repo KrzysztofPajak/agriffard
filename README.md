@@ -6,10 +6,7 @@
 - Contributor on [Orchard Core](https://github.com/OrchardCMS/OrchardCore) (ASP.NET framework and CMS)
 - Creator of [Noayo](https://noayo.com) (Orchard Core hosting platform)
 
-## Links
-- [Twitter](https://twitter.com/agriffard/)
-- [LinkedIn](https://www.linkedin.com/in/agriffard/)
-- [Weblogs ASP.NET](https://weblogs.asp.net/antoinegriffard)
+![https://twitter.com/agriffard](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![https://www.linkedin.com/in/agriffard/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## Sponsorship
 You can to support my work by using [GitHub Sponsors 💗](https://github.com/sponsors/agriffard) 
