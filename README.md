@@ -1,5 +1,3 @@
-[Personal website](https://antoinegriffard.com) 
-
 <img src="https://github-readme-stats.vercel.app/api?username=agriffard&count_private=false&show_icons=true&theme=light&include_all_commits=false">
 
 - Contributor on [Orchard Core](https://github.com/OrchardCMS/OrchardCore) (ASP.NET framework and CMS)
